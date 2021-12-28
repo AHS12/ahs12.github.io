@@ -8,8 +8,8 @@ const ContactCode = () => {
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
-        <a href="https://coderslab.com.bd" target="_blank" rel="noopener">
-        coderslab.com.bd
+        <a href="https://ahs12.github.io" target="_blank" rel="noopener">
+          https://ahs12.github.io
         </a>
         ;
       </p>
@@ -24,7 +24,7 @@ const ContactCode = () => {
         </a>
         ;
       </p>
-      <p className={styles.line}>
+      {/* <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;email:{' '}
         <a
           href="mailto:azizul.hakim@coderslab.com.bd"
@@ -34,7 +34,7 @@ const ContactCode = () => {
           azizul.hakim@coderslab.com.bd
         </a>
         ;
-      </p>
+      </p> */}
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;github:{' '}
         <a href="https://github.com/AHS12" target="_blank" rel="noopener">

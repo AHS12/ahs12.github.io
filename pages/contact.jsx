@@ -16,7 +16,7 @@ const ContactPage = () => {
     //   body: JSON.stringify({ name, email, subject, message }),
     // });
     // if (res.ok) {
-      alert('I am busy right now!Contact Coderslab');
+      alert('Sorry I will configure my email server later.Mail me directly');
       setName('');
       setEmail('');
       setSubject('');
