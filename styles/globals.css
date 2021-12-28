@@ -64,3 +64,61 @@
 .next:hover {
   background: rgba(0, 112, 243, 0.25);
 }
+
+.bootstrap {
+  border: 2px solid rgb(0, 112, 243);
+}
+.bootstrap:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.php {
+  border: 0.1rem solid rgb(255, 87, 34);
+}
+.php:hover {
+  background: rgba(255, 87, 34, 0.25);
+}
+
+.laravel {
+  border: 0.1rem solid rgb(255, 87, 214);
+}
+.laravel:hover {
+  background: rgba(255, 87, 214, 0.25);
+}
+
+.mysql {
+  border: 0.1rem solid rgb(205, 87, 344);
+}
+.mysql:hover {
+  background: rgba(205, 87, 344, 0.25);
+}
+
+.javascript {
+  border: 0.1rem solid rgb(155, 87, 34);
+}
+.javascript:hover {
+  background: rgba(155, 87, 34, 0.25);
+}
+
+.jquery {
+  border: 0.1rem solid rgb(155, 87, 200);
+}
+.jquery:hover {
+  background: rgba(155, 87, 200, 0.25);
+}
+
+
+.ajax {
+  border: 0.1rem solid rgb(255, 87, 34);
+}
+.ajax:hover {
+  background: rgba(255, 87, 34, 0.25);
+}
+
+.seo {
+  border: 0.1rem solid rgb(255, 87, 34);
+}
+.seo:hover {
+  background: rgba(255, 87, 34, 0.25);
+}
+

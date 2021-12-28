@@ -47,7 +47,7 @@ const Sidebar = () => {
             />
           </div>
         </Link>
-        {/* <Link href="/projects">
+        <Link href="/projects">
           <div
             className={`${styles.iconContainer} ${
               router.pathname === '/projects' && styles.active
@@ -62,7 +62,7 @@ const Sidebar = () => {
               className={styles.icon}
             />
           </div>
-        </Link> */}
+        </Link>
         {/* <Link href="/articles">
           <div
             className={`${styles.iconContainer} ${

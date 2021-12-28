@@ -18,6 +18,7 @@ module.exports = {
       '/about': { page: '/about' },
       '/contact': { page: '/contact' },
       '/settings': { page: '/settings' },
+      '/projects': { page: '/projects' },
     }
   },
 };
