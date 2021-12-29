@@ -122,3 +122,51 @@
   background: rgba(255, 87, 34, 0.25);
 }
 
+.nginx {
+  border: 0.1rem solid rgb(25, 87, 34);
+}
+.nginx:hover {
+  background: rgba(25, 87, 34, 0.25);
+}
+
+.apache {
+  border: 0.1rem solid rgb(255, 27, 44);
+}
+.apache:hover {
+  background: rgba(255, 27, 44, 0.25);
+}
+
+.api {
+  border: 0.1rem solid rgb(55, 87, 34);
+}
+.api:hover {
+  background: rgba(55, 87, 34, 0.25);
+}
+
+.api-documentation {
+  border: 0.1rem solid rgb(55, 87, 34);
+}
+.api-documentation:hover {
+  background: rgba(55, 87, 34, 0.25);
+}
+
+.cpp {
+  border: 0.1rem solid rgb(255, 233, 34);
+}
+.cpp:hover {
+  background: rgba(255, 203, 34, 0.25);
+}
+
+.blueprint {
+  border: 0.1rem solid rgb(34, 192, 255);
+}
+.blueprint:hover {
+  background: rgba(34, 240, 255, 0.25);
+}
+
+.unreal-engine {
+  border: 0.1rem solid rgb(72, 7, 74);
+}
+.unreal-engine:hover {
+  background: rgba(68, 7, 74, 0.25);
+}

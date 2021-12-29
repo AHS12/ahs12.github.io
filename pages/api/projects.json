@@ -32,6 +32,72 @@
     ],
     "demo": "https://www.antaheenfoundation.org/"
 
+  },
+  {
+    "id": 3,
+    "name": "P2P-Back Office Management System",
+    "image": "/portfolio/p2p.png",
+    "description": "It's a back-office management system with employee management, employee logs, clock in/out, employee status, desk status, etc features",
+    "tags": [
+      "php",
+      "laravel",
+      "mysql",
+      "javascript",
+      "jquery",
+      "ajax",
+      "bootstrap"
+    ],
+    "demo": "https://p2p-dev.coderslab.com.bd"
+
+  },
+  {
+    "id": 4,
+    "name": "Clinic Management System",
+    "image": "/portfolio/cms.png",
+    "description": "This project is all about managing a small clinic with all necessary modules",
+    "tags": [
+      "php",
+      "laravel",
+      "mysql",
+      "javascript",
+      "jquery",
+      "ajax",
+      "bootstrap",
+      "apache"
+    ],
+    "demo": "https://cms.coderslab.com.bd/"
+
+  },
+  {
+    "id": 5,
+    "name": "RondhonShilpi - API Development",
+    "image": "/portfolio/rondhonshilpi.png",
+    "description": "This project is an online food delivery platform but chef-focused.",
+    "tags": [
+      "php",
+      "laravel",
+      "mysql",
+      "nginx",
+      "api",
+      "api-documentation"
+    ],
+    "demo": "http://rondhonshilpi.coderslab.com.bd/"
+
+  },
+  {
+    "id": 6,
+    "name": "Simple Shooter Game",
+    "image": "/portfolio/simpleshooter.png",
+    "description": "This is a simple shooter game with a simple and clean design.Made in Unreal Engine",
+    "tags": [
+      "cpp",
+      "blueprint",
+      "unreal-engine"
+      
+     
+    ],
+    "demo": "https://gitlab.com/AHS12/unreal-shootersimple/-/releases"
+
   }
   
 ]
