@@ -170,3 +170,10 @@
 .unreal-engine:hover {
   background: rgba(68, 7, 74, 0.25);
 }
+
+.websockets {
+  border: 0.1rem solid rgb(115, 194, 63);
+}
+.websockets:hover {
+  background: rgba(115, 194, 63, 0.25);
+}

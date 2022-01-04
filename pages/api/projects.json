@@ -1,5 +1,41 @@
 [
   {
+    "id": 7,
+    "name": "Breath Services - React Dashboard & API Development",
+    "image": "/portfolio/breath.png",
+    "description": "A debt management system for breath services with live chat, push-notifications, websockets, client management and other features.",
+    "tags": [
+      "javascript",
+      "react",
+      "php",
+      "laravel",
+      "mysql",
+      "websockets",
+      "nginx",
+      "api",
+      "api-documentation"
+    ],
+    "demo": "https://breatheservices.co.uk"
+
+  },
+  {
+    "id": 8,
+    "name": "Jacobelectricgroup - API Development",
+    "image": "/portfolio/jacob.jpg",
+    "description": "A custome, complex and huge back-office management system for Jacobelectricgroup made from scrach. Which also have public API for client.",
+    "tags": [
+      "php",
+      "laravel",
+      "mysql",
+      "websockets",
+      "nginx",
+      "api",
+      "api-documentation"
+    ],
+    "demo": "https://jacobelectricgroup.com/"
+
+  },
+  {
     "id": 1,
     "name": "All Monitor Any hour - Website & Admin panel",
     "image": "/portfolio/allmonitor.png",
@@ -97,6 +133,23 @@
      
     ],
     "demo": "https://gitlab.com/AHS12/unreal-shootersimple/-/releases"
+
+  },
+
+  {
+    "id": 9,
+    "name": "Find Visa Counsellor - API Development",
+    "image": "/portfolio/visa.png",
+    "description": "find visa counselor is a platform where experienced visa counselors & students join. Students receive counseling from counselors via contract.",
+    "tags": [
+      "php",
+      "laravel",
+      "mysql",
+      "nginx",
+      "api",
+      "api-documentation"
+    ],
+    "demo": "https://findvisacounsellor.com/"
 
   }
   
